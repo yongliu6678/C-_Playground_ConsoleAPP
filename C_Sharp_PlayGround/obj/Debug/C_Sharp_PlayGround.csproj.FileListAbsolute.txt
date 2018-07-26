@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\bin\Debug\C_Sharp_PlayGround.exe.config
+C:\Users\admin\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\bin\Debug\C_Sharp_PlayGround.exe
+C:\Users\admin\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\bin\Debug\C_Sharp_PlayGround.pdb
+C:\Users\admin\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.exe
+C:\Users\admin\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.pdb
+C:\Users\yliu\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\bin\Debug\C_Sharp_PlayGround.exe.config
+C:\Users\yliu\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\bin\Debug\C_Sharp_PlayGround.exe
+C:\Users\yliu\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\bin\Debug\C_Sharp_PlayGround.pdb
+C:\Users\yliu\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.csprojResolveAssemblyReference.cache
+C:\Users\yliu\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.csproj.CoreCompileInputs.cache
+C:\Users\yliu\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.exe
+C:\Users\yliu\Desktop\Learn\C_Sharp\C_Sharp_PlayGround\C_Sharp_PlayGround\obj\Debug\C_Sharp_PlayGround.pdb
